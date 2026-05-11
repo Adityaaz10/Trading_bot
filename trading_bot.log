@@ -1,0 +1,8 @@
+2026-05-08 20:29:00,703 - INFO - Summary: Requesting MARKET order. BUY 0.01 BTCUSDT.
+2026-05-08 20:29:00,705 - INFO - Sending POST request to /fapi/v1/order
+2026-05-08 20:29:02,972 - INFO - SUCCESS: Order successfully placed!
+2026-05-08 20:29:02,972 - INFO - Order Details -> ID: 13120943605 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
+2026-05-08 20:31:30,125 - INFO - Summary: Requesting LIMIT order. SELL 0.01 BTCUSDT.
+2026-05-08 20:31:30,125 - INFO - Sending POST request to /fapi/v1/order
+2026-05-08 20:31:31,242 - INFO - SUCCESS: Order successfully placed!
+2026-05-08 20:31:31,242 - INFO - Order Details -> ID: 13120949162 | Status: NEW | Executed Qty: 0.0000 | Avg Price: 0.00
